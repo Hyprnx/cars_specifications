@@ -1,0 +1,5 @@
+car_specs.json filter=lfs diff=lfs merge=lfs -text
+cars_specs.json filter=lfs diff=lfs merge=lfs -text
+car_models.json filter=lfs diff=lfs merge=lfs -text
+cars_generations.json filter=lfs diff=lfs merge=lfs -text
+cars_years_generations.json filter=lfs diff=lfs merge=lfs -text
