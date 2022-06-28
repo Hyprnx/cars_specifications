@@ -49,6 +49,7 @@ you can modify other settings, middleware or pipelines as you wish (not recommen
 
 # Contact us
 [To Duc Anh](mailto:toducanh2001@gmail.com)
-If you use this dataset, please give me a star and cite this repo. Thanks!
+
+If you use this dataset, please give me a star and reference this repo. Thank you!
 
 Project Link: [Cars Specification](https://github.com/Hyprnx/cars_specifications)
